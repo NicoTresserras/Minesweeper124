@@ -1,0 +1,4 @@
+repository "MineSweeper124/MineSweeper124@6872684929080@cloud"
+  path "/"
+    br "/main"
+    co "/main"
